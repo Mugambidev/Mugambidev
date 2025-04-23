@@ -66,10 +66,10 @@ Classic arcade game reimagined with JavaScript - test your reflexes while having
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://portfolio.snackwyflows-projects.vercel.app/">
+  <a href="https://portfolio-snackoverflows-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/ivan-mugambi">
+  <a href="https://www.linkedin.com/in/ian-mugambi/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wakatime.com/@Mugambidev">
