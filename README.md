@@ -57,7 +57,7 @@ Classic arcade game reimagined with JavaScript - test your reflexes while having
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mugambidev&show_icons=true&theme=tokyonight" alt="Ian's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugambidev&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugambidev&layout=compact&theme=tokyonight" alt="Top Languages" />
