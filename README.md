@@ -1,89 +1,54 @@
-# Hello, I'm Ian Mugambi! 👋 ![](https://komarev.com/ghpvc/?username=Mugambidev)
+# Ian Mugambi
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=Front-End+Developer;Tech+Innovator;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
-</div>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=707070&width=435&lines=Software+Engineer;Full-Stack+Developer;IT+Specialist" alt="Typing SVG" />
+</p>
 
-## 💫 About Me
-I'm a passionate full-stack developer from Kenya 🇰🇪 who loves building practical solutions to real-world problems. With a focus on web development and automation, I create tools that make life easier and processes more efficient.
+### — Beyond the Code
+I am a software engineer based in Kenya, focused on building technical infrastructure and elegant automation. I balance a deep interest in systems administration with a love for clean, functional web architecture. 
 
-- 🚀 Currently building: GeoPulse and rentaflow
-- 🌱 Learning: Advanced workflow automation techniques
-- 💡 Philosophy: "Code that solves real problems is the best code"
-- ⚡ Fun fact: When not coding, I'm exploring new tech trends or writing about my discoveries
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</div>
-
-## 🔥 Current Focus
-I'm currently diving deeper into workflow automation systems and exploring ways to integrate AI into practical web applications. My goal is to create tools that enhance productivity while remaining accessible to everyday users.
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Mugambidev/GeoPulse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mugambidev&repo=GeoPulse&theme=tokyonight" alt="GeoPulse" />
-  </a>
-  <a href="https://github.com/Mugambidev/rentaflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mugambidev&repo=rentaflow&theme=tokyonight" alt="rentaflow" />
-  </a>
-</div>
-
-### Project Highlights
-
-#### 🌍 [GeoPulse](https://github.com/Mugambidev/GeoPulse)
-Interactive 3D map interface for exploring geographic data. Built to visualize global information in an intuitive way.
-
-#### 🏠 [rentaflow](https://github.com/Mugambidev/rentaflow)
-A streamlined rental management system designed to simplify property management for landlords and property managers.
-
-#### 🌿 [EcoFarms](https://github.com/Mugambidev/EcoFarms)
-Web application promoting sustainable farming practices and connecting eco-conscious farmers.
-
-#### ⚙️ [flowforge](https://github.com/Mugambidev/flowforge)
-Automation platform that helps users simplify repetitive tasks and create efficient workflows.
-
-#### 🎮 [Whack-a-Mole](https://github.com/Mugambidev/Whack-a-Mole)
-Classic arcade game reimagined with JavaScript - test your reflexes while having fun!
-
-## 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mugambidev&show_icons=true&theme=tokyonight" alt="Ian's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugambidev&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugambidev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://portfolio-snackoverflows-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/ian-mugambi/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://wakatime.com/@Mugambidev">
-    <img src="https://img.shields.io/badge/WakaTime-%2336465D.svg?style=for-the-badge&logo=WakaTime&logoColor=white" alt="WakaTime" />
-  </a>
-  <a href="mailto:kinotimoe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+* **Current Pursuit:** Mastering Go and advanced SQL for high-performance systems.
+* **Philosophy:** "The soul of the work is in the details." — Inspired by Dostoevsky.
+* **Interests:** Linux environments, networking labs, and the intersection of tech and agriculture.
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
+### 🛠 Technical Arsenal
 
-### 👨‍💻 Happy coding!
+**Languages & Backend**
+`Go` · `Python` · `JavaScript` · `SQL` · `Linux/Bash`
+
+**Infrastructure & Tools**
+`MikroTik` · `Cisco` · `VirtualBox` · `Git` · `Vercel`
+
+---
+
+### 📂 Featured Works
+
+#### [GeoPulse](https://github.com/Mugambidev/GeoPulse)
+Interactive 3D geographic data visualization.
+*`JavaScript` · `Three.js`*
+
+#### [Rentaflow](https://github.com/Mugambidev/rentaflow)
+Streamlined rental management and workflow automation.
+*`Python` · `Automation`*
+
+#### [Flowforge](https://github.com/Mugambidev/flowforge)
+A minimalist platform for repetitive task automation.
+*`Full-stack`*
+
+---
+
+### 📊 Vital Signs
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mugambidev&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=555&icon_color=000" width="400" />
+</p>
+
+---
+
+### 📫 Connection
+
+[Portfolio](https://portfolio-snackoverflows-projects.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ian-mugambi/) · [Email](mailto:kinotimoe@gmail.com)
+
+---
